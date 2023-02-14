@@ -107,7 +107,7 @@ https://youtu.be/3E6k7v6gwOM
 
 6. CONCLUSION. -
 
-
+Nos resulta de suma importancia el conocimiento del osciloscopio el cual nos ayuda a verificar una honda, la frecuenica y periodo el cual podemos determinar sabiendo como interpretar la forma en que funciona la honda, ademas de ello los capacitores los cuales pueden almacenar cierta cantidad de energía teniendo polaridad para poder administrarlo, resultan un componente util para la placas, ademas de ello podemos ver el cambio que se realiza al intercambiar los hertz en la emision de corriente.
 
 7. BIBLIOGRAFIA. - 
 
